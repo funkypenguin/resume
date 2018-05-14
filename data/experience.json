@@ -1,0 +1,45 @@
+[
+    {
+        "role":"Senior Infrastructure Architect",
+        "company":"Prophecy Networks Ltd",
+        "summary":"",
+        "range":"February 2016 - Present"
+    },
+    {
+        "role":"Infrastructure Manager",
+        "company":"Prophecy Networks Ltd",
+        "summary":"",
+        "range":"February 2014 - February 2016"
+    },
+    {
+        "role":"Technical Account Manager",
+        "company":"Prophecy Networks Ltd",
+        "summary":"",
+        "range":"February 2012 - February 2014"
+    },
+    {
+        "role":"Senior Engineer",
+        "company":"Prophecy Networks Ltd",
+        "summary":"",
+        "range":"January 2007 - February 2012"
+    },
+    {
+        "role":"Chief Penguin",
+        "company":"Funky Penguin Open Source Solutions CC (South Africa)",
+        "summary":"",
+        "range":"January 2005 - December 2007"
+    },
+    {
+        "role":"Live-in Boarding House Master",
+        "company":"St Stithians College (South Africa)",
+        "summary":"I was one of several house masters who lived in the boarding house, had rostered responsibilty to care for the boys",
+        "range":"January 2005 - December 2007"
+    },
+    {
+        "role":"IT Engineer",
+        "company":"Lithotech Ltd (South Africa)",
+        "summary":"Started as helpdesk engineer, ended up. redesigning 13-site mail platform to use qmail-ldap cluster, managing 64k bandwith per site (yes!) with squid transparent proxy and sarg reports.",
+        "range":"January 1999 - December 2004"
+    }
+
+]

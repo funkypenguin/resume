@@ -1,0 +1,56 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "David Young"
+theme = "resume"
+
+[params]
+    firstName = "David"
+    lastName = "Young"
+    address = "Hamilton, New Zealand"
+    phone = "+64-21-966-716"
+    contactNote = "Senior Infrastructure Architect"
+    profileImage = "img/bio-photo.jpg"
+    email = "davidy@funkypenguin.co.nz"
+    description = "Senior Infrastructure Architect with broad technical experience across open-source systems and IP networking fields"
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = true
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+
+[[params.handles]]
+    name = "At"
+    link = "mailto:davidy@funkypenguin.co.nz"
+
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/funkypenguin/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/funkypenguin/"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/funkypenguin/"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/story/8416693"
+    icon = "stack-overflow"
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/funkypenguin"
+    icon = "key"
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"
