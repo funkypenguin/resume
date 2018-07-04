@@ -2,7 +2,7 @@
     "title":"Bandersnatch - Jabber Conversation Logger",
     "date": "2001-02-11T12:41:05-05:00",
     "link":"https://www.funkypenguin.co.nz/project/bandersnatch/",
-    "image":"/img/deploysonly.gif",
+    "image":"/img/bandersnatch.jpg",
     "description":"Jabber server conversation logger with search, sort, and privacy masking",
     "featured":true,
     "tags":["MySQL","PHP","XMPP"],

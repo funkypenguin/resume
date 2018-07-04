@@ -23,12 +23,6 @@ theme = "hugo-resume"
 
     showQr = true
 
-
-[[params.handles]]
-    name = "At"
-    link = "mailto:davidy@funkypenguin.co.nz"
-
-
 [[params.handles]]
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/funkypenguin/"

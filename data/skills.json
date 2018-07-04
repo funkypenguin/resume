@@ -6,19 +6,19 @@
   {
     "grouping":"Containers & Cloud",
       "skills":[
-          {"name":"OpenStack","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Azure","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"VMWare","link":"https://cloud.google.com"},
-          {"name":"KVM","link":"https://cloud.google.com"}
+          {"name":"OpenStack","link":"https://www.funkypenguin.co.nz/tags/#openstack"},
+          {"name":"Docker","link":"https://www.funkypenguin.co.nz/tags/#docker"},
+          {"name":"AWS"},
+          {"name":"Azure"},
+          {"name":"Google Cloud"},
+          {"name":"VMWare"},
+          {"name":"KVM"}
       ]
   },
   {
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ "Linux","JUNOS","git","bash","php","openvpn","iptables"]
-  },  
+  },
   {
       "grouping":"Platform Development & Administration",
       "skills":[ "mediawiki","apache","MySQL","Asterisk","Jabber"]
