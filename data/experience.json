@@ -14,7 +14,7 @@
     {
         "role":"Infrastructure Manager",
         "company":"Prophecy Networks Ltd (incorporating SafeNZ Ltd)",
-        "summary":"Management of systems, improvement to service delivery to both internal users and exernal customers through investing in processes, policies, and documentation.",
+        "summary":"Management of systems, improvement to service delivery to both internal users and external customers through investing in processes, policies, and documentation.",
         "range":"October 2009 - February 2015"
     },
     {
@@ -38,7 +38,7 @@
     {
         "role":"IT Engineer",
         "company":"Lithotech Ltd (South Africa)",
-        "summary":"Started as helpdesk engineer, ended up. redesigning 13-site mail platform to use qmail-ldap cluster, managing 64k bandwith per site (yes!) with squid transparent proxy and sarg reports.",
+        "summary":"Started as helpdesk engineer, ended up redesigning 13-site mail platform to use qmail-ldap cluster, managing 64k bandwith per site (yes!) with squid transparent proxy and sarg reports.",
         "range":"January 1999 - December 2004"
     }
 
