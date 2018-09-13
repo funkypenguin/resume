@@ -6,8 +6,10 @@
   {
     "grouping":"Containers & Cloud",
       "skills":[
+          {"name":"Terraform"},
           {"name":"OpenStack","link":"https://www.funkypenguin.co.nz/tags/#openstack"},
           {"name":"Docker","link":"https://www.funkypenguin.co.nz/tags/#docker"},
+          {"name":"Kubernetes"},
           {"name":"AWS"},
           {"name":"Azure"},
           {"name":"Google Cloud"},
