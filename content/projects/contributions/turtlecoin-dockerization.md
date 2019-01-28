@@ -4,7 +4,7 @@
     "image":"/img/turtlecoin_mining_pool.png",
     "description":"I started dabbling in mining pools with Docker, and ended up maintaining a popular nodejs application, and a mini-empire of Kubernetes-driven mining pools!",
     "tags":["Docker","Kubernetes","Blockchain","GKE"],
-    "weight":"999",
+    "weight":"2",
     "featured":true,
     "sitemap": {"priority" : "0.8"}
 }

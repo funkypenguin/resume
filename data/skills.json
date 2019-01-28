@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "IP Networking","Security","DNS","Email","Load Balancing","High Availability","SaaS/PaaS/IaaS",{"name": "Blockchain","link":"https://turtlecoin.lol"}]
+      "skills":[ "IP Networking",{"name":"Security", "link": "https://www.funkypenguin.co.nz/tags/#security"},"DNS","Email","Load Balancing","High Availability","SaaS/PaaS/IaaS",{"name": "Blockchain","link":"https://turtlecoin.lol"}]
   },
   {
     "grouping":"Containers & Cloud",
@@ -12,17 +12,39 @@
           {"name":"Kubernetes","link":"https://www.funkypenguin.co.nz/tags/#kubernetes"},
           {"name":"AWS"},
           {"name":"Azure"},
-          {"name":"Google Cloud"},
+          {"name":"Google Cloud", "link": "https://www.funkypenguin.co.nz/tags/#gke"},
           {"name":"VMWare"},
           {"name":"KVM"}
       ]
   },
   {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Linux","JUNOS","git","bash","php","openvpn","iptables"]
+      "skills":[
+          "Linux",{"name":"JUNOS", "link": "https://www.funkypenguin.co.nz/tags/#junos"},
+          "git",
+          {"name":"bash", "link": "https://www.funkypenguin.co.nz/tags/#bash"},
+          "php",
+          "openvpn",
+          "iptables"
+      ]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "mediawiki","apache","MySQL","Asterisk","Jabber"]
+      "skills":[
+          "mediawiki",
+          "apache",
+          "MySQL",
+          {"name":"Asterisk", "link": "https://www.funkypenguin.co.nz/tags/#asterisk"},
+          {"name":"XMPP", "link": "https://www.funkypenguin.co.nz/tags/#jabber"}
+      ]
+  },
+  {
+      "grouping":"Soft Skills",
+      "skills":[
+          "training",
+          "technical writing",
+          {"name":"root-cause analysis", "link": "https://www.funkypenguin.co.nz/tags/#postmortem"},
+          {"name":"incident management", "link": "https://www.funkypenguin.co.nz/tags/#failure"}
+      ]
   }
 ]
