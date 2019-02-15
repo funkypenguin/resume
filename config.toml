@@ -46,5 +46,10 @@ theme = "hugo-resume"
     link = "https://keybase.io/funkypenguin"
     icon = "key"
 
+[[params.handles]]
+    name = "Goodreads"
+    link = "https://www.goodreads.com/funkypenguin"
+    icon = "book"
+
 [params.google.analytics]
     trackerID = "XX-123446-01"

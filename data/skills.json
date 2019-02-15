@@ -10,7 +10,7 @@
           {"name":"OpenStack","link":"https://www.funkypenguin.co.nz/tags/#openstack"},
           {"name":"Docker","link":"https://www.funkypenguin.co.nz/tags/#docker"},
           {"name":"Kubernetes","link":"https://www.funkypenguin.co.nz/tags/#kubernetes"},
-          {"name":"AWS"},
+          {"name":"AWS", "link": "https://www.funkypenguin.co.nz/tags/#aws"},
           {"name":"Azure"},
           {"name":"Google Cloud", "link": "https://www.funkypenguin.co.nz/tags/#gke"},
           {"name":"VMWare"},
