@@ -11,5 +11,8 @@ outputs:
 ---
 <p>Hi, I'm David.</p>
 <p>I've spent 20+ years working with technology.</p>
-<p>My current role is <A HREF='/#experience'>Senior Infrastructure Architect</A> at <A HREF='http://www.prophecy.net.nz'>Prophecy Networks Ltd</A> in New Zealand, with a specific interest in networking, systems, open-source, and business management. I am actively seeking my next position, and I am open to opportunities which fit my interests and skills.<p>
-<p>I'm an <A HREF='https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2019-02-22&ci=AWS00794574'>AWS Certified Solution Architect (Professional)</A>, a <A HREF='https://www.funkypenguin.co.nz/tags/#remotework'>remote worker</A>, I've written a <A HREF='/#publications'>book</A>, and I <A HREF='https://www.funkypenguin.co.nz/blog/'>blog</A> on topics that interest me.</p>
+<p>I'm a contracting IT consultant, with a broad range of experience and skills. I'm an <A HREF='https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2019-02-22&ci=AWS00794574'>AWS Certified Solution Architect (Professional)</A>, a <A HREF='https://www.funkypenguin.co.nz/tags/#remotework'>remote worker</A>, I've written a <A HREF='/#publications'>book</A>, and I <A HREF='https://www.funkypenguin.co.nz/blog/'>blog</A> on topics that interest me.</p>
+
+<p>I'm interested in applying my skills (and curiosity) to short and long-term opportunities, both locally and remotely.<p>
+
+<p>My most recent role was <A HREF='/#experience'>Senior Infrastructure Architect</A> at <A HREF='http://www.prophecy.net.nz'>Prophecy Networks Ltd</A> in New Zealand, with a specific focus in networking, systems, open-source, IaaS, and business management.</p>
