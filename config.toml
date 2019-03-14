@@ -27,7 +27,6 @@ theme = "hugo-resume"
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/funkypenguin/"
 
-
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/funkypenguin/"
@@ -44,12 +43,12 @@ theme = "hugo-resume"
 [[params.handles]]
     name = "Keybase"
     link = "https://keybase.io/funkypenguin"
-    icon = "key"
+    icon = "keybase"
 
 [[params.handles]]
     name = "Goodreads"
     link = "https://www.goodreads.com/funkypenguin"
-    icon = "book"
+    icon = "goodreads"
 
 [params.google.analytics]
     trackerID = "XX-123446-01"
