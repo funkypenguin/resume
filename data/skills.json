@@ -7,12 +7,12 @@
     "grouping":"Containers & Cloud",
       "skills":[
           {"name":"Terraform"},
-          {"name":"OpenStack","link":"https://www.funkypenguin.co.nz/tags/#openstack"},
-          {"name":"Docker","link":"https://www.funkypenguin.co.nz/tags/#docker"},
-          {"name":"Kubernetes","link":"https://www.funkypenguin.co.nz/tags/#kubernetes"},
-          {"name":"AWS", "link": "https://www.funkypenguin.co.nz/tags/#aws"},
+          {"name":"OpenStack","link":"https://www.funkypenguin.co.nz/tag/openstack"},
+          {"name":"Docker","link":"https://www.funkypenguin.co.nz/tag/docker"},
+          {"name":"Kubernetes","link":"https://www.funkypenguin.co.nz/tag/kubernetes"},
+          {"name":"AWS", "link": "https://www.funkypenguin.co.nz/tag/aws"},
           {"name":"Azure"},
-          {"name":"Google Cloud", "link": "https://www.funkypenguin.co.nz/tags/#gke"},
+          {"name":"Google Cloud", "link": "https://www.funkypenguin.co.nz/tag/gke"},
           {"name":"VMWare"},
           {"name":"KVM"}
       ]
@@ -20,9 +20,9 @@
   {
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[
-          "Linux",{"name":"JUNOS", "link": "https://www.funkypenguin.co.nz/tags/#junos"},
+          "Linux",{"name":"JUNOS", "link": "https://www.funkypenguin.co.nz/tag/junos"},
           "git",
-          {"name":"bash", "link": "https://www.funkypenguin.co.nz/tags/#bash"},
+          {"name":"bash", "link": "https://www.funkypenguin.co.nz/tag/bash"},
           "php",
           "openvpn",
           "iptables"
@@ -34,8 +34,8 @@
           "mediawiki",
           "apache",
           "MySQL",
-          {"name":"Asterisk", "link": "https://www.funkypenguin.co.nz/tags/#asterisk"},
-          {"name":"XMPP", "link": "https://www.funkypenguin.co.nz/tags/#jabber"}
+          "Asterisk",
+          "XMPP"
       ]
   },
   {
@@ -43,8 +43,8 @@
       "skills":[
           "training",
           "technical writing",
-          {"name":"root-cause analysis", "link": "https://www.funkypenguin.co.nz/tags/#postmortem"},
-          {"name":"incident management", "link": "https://www.funkypenguin.co.nz/tags/#failure"}
+          {"name":"root-cause analysis", "link": "https://www.funkypenguin.co.nz/tag/postmortem"},
+          {"name":"incident management", "link": "https://www.funkypenguin.co.nz/tag/failure"}
       ]
   }
 ]
