@@ -29,3 +29,10 @@ HUGO_VERSION = "0.40.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[redirects]]
+  from = "/"
+  to = "https://www.funkypenguin.co.nz/resume/"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  # conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
